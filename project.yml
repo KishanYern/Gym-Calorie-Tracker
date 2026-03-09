@@ -1,0 +1,14 @@
+name: GymCalorieTracker
+options:
+  bundleIdPrefix: com.tracker
+targets:
+  GymCalorieTracker:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - GymCalorieTracker
+    info:
+      path: GymCalorieTracker/Info.plist
+      properties:
+        UILaunchScreen: {}

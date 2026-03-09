@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Gym Calorie Tracker needs access to read your step count and active energy data to correlate with your caloric intake.</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Gym Calorie Tracker needs access to write workout data to HealthKit.</string>
+</dict>
+</plist>
